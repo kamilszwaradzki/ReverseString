@@ -1,0 +1,13 @@
+/home/tom/Git_Projects/ReverseString/bin/Debug/netcoreapp3.1/ReverseString
+/home/tom/Git_Projects/ReverseString/bin/Debug/netcoreapp3.1/ReverseString.deps.json
+/home/tom/Git_Projects/ReverseString/bin/Debug/netcoreapp3.1/ReverseString.runtimeconfig.json
+/home/tom/Git_Projects/ReverseString/bin/Debug/netcoreapp3.1/ReverseString.runtimeconfig.dev.json
+/home/tom/Git_Projects/ReverseString/bin/Debug/netcoreapp3.1/ReverseString.dll
+/home/tom/Git_Projects/ReverseString/bin/Debug/netcoreapp3.1/ReverseString.pdb
+/home/tom/Git_Projects/ReverseString/obj/Debug/netcoreapp3.1/ReverseString.csprojAssemblyReference.cache
+/home/tom/Git_Projects/ReverseString/obj/Debug/netcoreapp3.1/ReverseString.AssemblyInfoInputs.cache
+/home/tom/Git_Projects/ReverseString/obj/Debug/netcoreapp3.1/ReverseString.AssemblyInfo.cs
+/home/tom/Git_Projects/ReverseString/obj/Debug/netcoreapp3.1/ReverseString.csproj.CoreCompileInputs.cache
+/home/tom/Git_Projects/ReverseString/obj/Debug/netcoreapp3.1/ReverseString.dll
+/home/tom/Git_Projects/ReverseString/obj/Debug/netcoreapp3.1/ReverseString.pdb
+/home/tom/Git_Projects/ReverseString/obj/Debug/netcoreapp3.1/ReverseString.genruntimeconfig.cache
